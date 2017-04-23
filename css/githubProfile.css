@@ -1,0 +1,38 @@
+header{
+	font-size: 20px;
+}
+body{
+	margin-left:8%;
+	margin-right: 8%;
+	margin-top: 2%;
+	background-color: black;
+}
+#About,.quotes{
+	opacity: 0.9;
+	background-color: white;
+	
+}
+h1{
+	font-family: 'Sofia'
+	padding-left: 40px;
+	font-size: 60px;
+	line-height: 80px;
+	padding-left: 70px;
+	color: black;
+
+}
+#nithi{
+	padding-right: 30px;
+}
+section{
+	margin-top: 20px;
+	border-radius: 10px;
+}
+.author{
+	text-align: right;
+	padding-right: 15%;
+}
+.quote{
+	padding-left:25px;
+	font-style: italic, bold;
+}
