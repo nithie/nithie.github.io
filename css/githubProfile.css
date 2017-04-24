@@ -12,14 +12,13 @@ body{
 	background-color: white;
 	
 }
-h1{
-	font-family: 'Sofia'
-	padding-left: 40px;
-	font-size: 60px;
+.h1{
+	font-family: 'Sofia';
+	font-size: 70px;
 	line-height: 80px;
-	padding-left: 70px;
 	color: black;
-
+    margin-top: 10%;
+    text-align: center;
 }
 #nithi{
 	padding-right: 30px;
